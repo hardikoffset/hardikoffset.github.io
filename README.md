@@ -68,3 +68,7 @@ Run `python3 -m http.server 8000` from this folder and visit `http://localhost:8
 ## Hosting limitation
 
 This is a static website. GitHub Pages cannot collect enquiries into a database by itself. The form hands off to WhatsApp; the visitor still needs to send the message in WhatsApp. No third-party contact-form service or tracking is installed.
+## Original visiting-card identity
+
+- `assets/hardik-offset-logo.png` is an AI-assisted cleaned reconstruction of the red monogram and swoosh in the user-supplied existing card, not the original vector master.
+- Contact emails transcribed from that card: `hardikoffset@gmail.com` and `raju.press@yahoo.com`.
